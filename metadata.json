@@ -1,0 +1,6 @@
+{
+  "name": "BlackHub - Video Sharing & Premium Streaming Platform",
+  "description": "BlackHub is a video-sharing and premium streaming platform with cryptocurrency subscriptions, creator uploads, and administration system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
